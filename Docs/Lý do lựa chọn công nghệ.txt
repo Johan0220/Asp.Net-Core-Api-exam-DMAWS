@@ -1,0 +1,6 @@
+Phân tích vấn đề từ góc độ của một nhà phát triển phần mềm:
+
+Công nghệ: Tôi sẽ chọn ASP.NET Core với Entity Framework Core để xây dựng website và API. Lý do:
+1. Hiệu suất cao và tiết kiệm chi phí: ASP.NET Core là một framework nhẹ, linh hoạt và hiệu suất cao. Nó cho phép chúng ta xây dựng các ứng dụng có thể mở rộng để đáp ứng nhu cầu người dùng tăng hoặc giảm theo thời gian mà không cần phải đầu tư nhiều vào phần cứng.
+2. Hỗ trợ Code First: Entity Framework Core hỗ trợ phương pháp Code First, cho phép chúng ta xây dựng cơ sở dữ liệu dựa trên mã nguồn, giúp tiết kiệm thời gian và công sức.
+3. Tích hợp tốt với các dịch vụ khác: ASP.NET Core có thể dễ dàng tích hợp với các dịch vụ khác như Azure, AWS, Docker, giúp tối ưu hóa quá trình vận hành và bảo dưỡng hệ thống.
